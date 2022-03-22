@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;MultiUndDiv&apos; to &apos;BMI&apos;&#x0D;&#x0A;- Original project: &apos;005 multi und div&apos;&#x0D;&#x0A;- Original element: &apos;MultiUndDiv&apos;&#x0D;&#x0A;- Renamed element: &apos;BMI&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MultiUndDiv&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{MultiUndDiv.java[MultiUndDiv" matchStrategy="1" name="BMI" qualified="false" references="true" similarDeclarations="false" stamp="1613464826065" textual="false" version="1.0"/>
+</session>
